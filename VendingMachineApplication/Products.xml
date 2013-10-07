@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+  <product>
+    <name>Coke Cola</name>
+    <price>0.80</price>
+    <quantity>5</quantity>
+    <code>A1</code>
+  </product>
+  <product>
+    <name>Walkers Salted</name>
+    <price>0.60</price>
+    <quantity>5</quantity>
+    <code>A2</code>
+  </product>
+  <product>
+    <name>Walkers Salt and Vin</name>
+    <price>0.60</price>
+    <quantity>5</quantity>
+    <code>A3</code>
+  </product>
+  <product>
+    <name>Walkers Cheese and Onion</name>
+    <price>0.60</price>
+    <quantity>5</quantity>
+    <code>A4</code>
+  </product>
+  <product>
+    <name>Fanta</name>
+    <price>0.80</price>
+    <quantity>5</quantity>
+    <code>B1</code>
+  </product>
+</products>
